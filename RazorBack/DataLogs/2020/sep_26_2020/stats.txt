@@ -1,0 +1,8 @@
+Positive is Lean, Negative is Rich
+Average Error: -0.03 | samples: 5447 | Engine in cruise state
+Average Error: -1.11 | samples: 371 | Engine accelerating slowly
+Average Error: -0.27 | samples: 756 | Engine decelerating slowly
+Average Error: 2.25 | samples: 1673 | Engine in overrun
+Average Error: -0.16 | samples: 4500 | Engine idling
+Average Error: -2.5 | samples: 186 | Engine WOT
+AVERAGE ERROR 0.19

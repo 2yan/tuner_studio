@@ -1,0 +1,23 @@
+#Project Attributes.
+#TunerStudio by EFI Analytics, Inc
+#Last Saved on: Sat Mar 20 11:44:20 PDT 2021
+#Sat Mar 20 11:44:20 PDT 2021
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
+commPort=
+CommSettingWS595CommDriver.RS232\ Serial\ Interface2nd\ Com\ Port=
+useCommonDashboardDir=false
+CommSettingMSCommDriver.controllerInterfaceId=RS232 Serial Interface
+dashBoardFile=/dashboard//dashboard.dash
+ecuConfigFile=mainController.ini
+baudRate=115200
+CommSettingMSCommDriver.RS232\ Serial\ Interface2nd\ Com\ Port=
+CommSettingWS595CommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
+CommSettingWS595CommDriver.controllerInterfaceId=RS232 Serial Interface
+projectDescription=
+selectedComDriver=Multi Interface MegaSquirt Driver
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceCom\ Port=/dev/ttyUSB0
+CommSettingMSCommDriver.RS232\ Serial\ InterfaceBaud\ Rate=115200
+CommSettingWS595CommDriver.RS232\ Serial\ InterfaceBluetooth\ Port=false
+projectName=HolyDiverAh
+CommSettingWS595CommDriver.RS232\ Serial\ InterfaceCom\ Port=/dev/ttyUSB0
+ecuSettings=CAN_COMMANDS|CYL_12_16_SUPPORT_OFF|FAHRENHEIT|INTERNAL_LOG_FIELDS_OFF|OUTMSG_EDITING_OFF|PORT_STATUS_OFF|PW_4X_OFF|

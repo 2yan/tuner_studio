@@ -1,0 +1,3 @@
+Positive is Lean, Negative is Rich
+AVERAGE ERROR -1.6
+AVERAGE ABSOLUTE ERROR 3.08

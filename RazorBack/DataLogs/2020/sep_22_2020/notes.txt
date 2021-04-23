@@ -1,0 +1,9 @@
+this follows original one. 
+Targeted fixing full lean spikes, 
+Avgerage total error was not better but area of target was better.
+
+
+Drive Notes: 
+Spent time chasing the lagging engine feeling. To fix for High load, lower RPM lean spikes. 
+THrottle tip in also leads to lean spikes sometimes. 
+
